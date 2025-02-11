@@ -1,5 +1,5 @@
 # Crypto Ever Store 
-
+A modern cryptocurrency dashboard and marketplace built with React, Material UI, and Redux.
 
 <div>
   <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=white&color=61DAFB" alt="React" />
@@ -42,12 +42,6 @@
 <img src="https://img.shields.io/badge/-Auth0-black?style=for-the-badge&logo=auth0&logoColor=white&color=EB5424" alt="Auth0" />
 <img src="https://img.shields.io/badge/-Notistack-black?style=for-the-badge&logo=notistack&logoColor=white&color=00BFA5" alt="Notistack" />
 </div>
-
-
-
-
-
-A modern cryptocurrency dashboard and marketplace built with React, Material UI, and Redux.
 
 ## 🚀 Features
 - **Authentication & Security**: Supports Auth0 and Amazon Cognito for user management.
