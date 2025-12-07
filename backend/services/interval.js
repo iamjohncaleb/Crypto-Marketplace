@@ -11,7 +11,6 @@
 
 
 
-
 const axios = require('axios');
 const _ = require('lodash');
 const { SUPPORTEDCOINS } = require('../utils/staticData');
